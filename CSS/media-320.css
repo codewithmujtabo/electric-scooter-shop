@@ -1,0 +1,231 @@
+@media (max-width: 320px) {
+  .container {
+    width: 280px;
+  }
+  .header {
+    padding-top: 20px;
+  }
+  .header-logo-orange {
+    width: 49px;
+    height: 28px;
+  }
+  .logo_2 {
+    margin-top: 20px;
+    width: 49px;
+    height: 28px;
+  }
+  .nav-btn {
+    width: 45px;
+    height: 45px;
+  }
+  .home_1 {
+    background: url("../image/320-480\ bg-1.png") no-repeat;
+    height: 2100px;
+    background-size: cover;
+    background-position: center;
+  }
+  .home_2 {
+    background: url("../image/320-480\ bg-2.png") no-repeat;
+    height: 420px;
+    background-size: cover;
+    background-position: center;
+  }
+  .home_3 {
+    background: url("../image/320-480\ bg-3.png") no-repeat;
+    height: 3300px;
+    background-size: cover;
+    background-position: center;
+  }
+  .home_4 {
+    background: url("../image/320-480\ bg-4.png") no-repeat;
+    height: 525px;
+    background-size: cover;
+    background-position: center;
+  }
+  .home_5 {
+    background: url("../image/320-480\ bg-5.png") no-repeat;
+    height: 2165px;
+    background-size: cover;
+    background-position: center;
+  }
+  .home-h1 {
+    margin-top: 320px;
+    width: 300px;
+    font-size: 30px;
+    line-height: 100%;
+  }
+  .home-p {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-size: 16px;
+  }
+  .white {
+    padding: 15px 50px;
+  }
+  .black {
+    padding: 15px 50px;
+  }
+  .home-h2 {
+    margin-top: 80px;
+    width: 280px;
+    font-size: 25px;
+  }
+  .picture_1 {
+    width: 280px;
+    height: 200px;
+  }
+  .picture_5_640 {
+    width: 280px;
+    height: 200px;
+  }
+  .picture_6_640 {
+    width: 280px;
+    height: 200px;
+  }
+  .info-text-640-1 {
+    font-size: 12px;
+    width: 300px;
+  }
+  .info-text-640-2 {
+    font-size: 12px;
+    width: 300px;
+  }
+  .info-text-640-3 {
+    font-size: 12px;
+    width: 300px;
+  }
+  .info-line {
+    width: 100px;
+  }
+  .last-info-line {
+    width: 100px;
+  }
+  .home-2-h2 {
+    margin-top: 230px;
+    font-size: 25px;
+  }
+  .home-2-text {
+    font-size: 12px;
+    line-height: 170%;
+  }
+  .home-3-h2-1-1 {
+    padding-top: 60px;
+    font-size: 25px;
+  }
+  .home-3-h2-1-2 {
+    font-size: 25px;
+    margin-top: 130px;
+  }
+  .card_1 {
+    border-radius: 15px;
+    width: 280px;
+    height: 260px;
+  }
+  .card_2 {
+    border-radius: 15px;
+    margin-top: 180px;
+    width: 280px;
+    height: 260px;
+  }
+  .card-text-1 {
+    margin-top: 115px;
+    font-size: 12px;
+    margin-left: -25px;
+  }
+  .card-text-2 {
+    margin-top: 150px;
+    font-size: 12px;
+    margin-left: -25px;
+  }
+  .card-p {
+    width: 300px;
+  }
+  .picture_3 {
+    width: 280px;
+    height: 200px;
+  }
+  .picture_7_640 {
+    width: 280px;
+    height: 200px;
+  }
+  .picture_8_640 {
+    width: 280px;
+    height: 200px;
+  }
+  .picture_9_640 {
+    width: 280px;
+    height: 200px;
+  }
+  .info-text-2-640-1 {
+    font-size: 12px;
+  }
+  .info-text-2-640-2 {
+    font-size: 12px;
+  }
+  .info-text-2-640-3 {
+    font-size: 12px;
+  }
+  .info-text-2-640-4 {
+    font-size: 12px;
+  }
+  .info-line-2 {
+    width: 100px;
+  }
+  .last-info-line-2 {
+    width: 100px;
+  }
+  .home-3-footer {
+    margin-top: 30px;
+  }
+  .app-p {
+    width: 280px;
+    margin-top: 10px;
+  }
+  .black-app-store {
+    margin-left: 70px;
+    margin-top: 100px;
+  }
+  .white-phone {
+    position: absolute;
+  }
+  .home-4-h2 {
+    font-size: 25px;
+    color: #f1f1f1;
+  }
+  .home-4-p {
+    color: #f1f1f1;
+  }
+  .home-5-h2-1 {
+    padding-top: 20px;
+    margin-bottom: -40px;
+  }
+  .home-5-h2-2 {
+    padding-top: 20px;
+    margin-bottom: -40px;
+  }
+  .review_1 {
+    margin-left: 20px;
+    width: 280px;
+    height: 422px;
+  }
+  .que-p {
+    margin-bottom: 20px;
+  }
+  .questions {
+    margin-top: 20px;
+  }
+  .last-h2-w {
+    margin-left: 50px;
+    font-size: 25px;
+    width: 200px;
+  }
+  .last-h2-o {
+    font-size: 25px;
+    margin-left: 50px;
+  }
+  .buy-btn {
+    margin-top: 280px;
+    width: 220px;
+    margin-left: 40px;
+  }
+}
